@@ -1,11 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Alba Closa Tarres</h1>
 <h3 align="center">A passionate frontend developer from Spain currently living in West Virginia.</h3>
 
 - 📫 How to reach me **aclosatarres@wvstateu.edu**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1j9tRVwQ1MGGGXcgayqvS_r-DIQNyfRzVsEyrJB6WGE8/edit?usp=drive_link](https://docs.google.com/document/d/1j9tRVwQ1MGGGXcgayqvS_r-DIQNyfRzVsEyrJB6WGE8/edit?usp=drive_link)
+
+- ⚡ Fun fact **I am actually an athlete**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/albaclosatarres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albaclosatarres" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
