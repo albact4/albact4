@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aclosatarres@wvstateu.edu**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1rPHipyOM-GC0xi4gKMCa9RqIcHdmbz5M/view)
+- 📄 Know about my [experience]([https://drive.google.com/file/d/1rPHipyOM-GC0xi4gKMCa9RqIcHdmbz5M/view](https://drive.google.com/file/d/1rPHipyOM-GC0xi4gKMCa9RqIcHdmbz5M/view))!
 
 - ⚡ Fun fact **I am actually an athlete**
 
