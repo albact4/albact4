@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alba Closa Tarres</h1>
-<h3 align="center">A passionate frontend developer from Spain currently living in West Virginia.</h3>
+<h3 align="center">A passionate engineer from Spain currently living in West Virginia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albact4&label=Profile%20views&color=0e75b6&style=flat" alt="albact4" /> </p>
 
